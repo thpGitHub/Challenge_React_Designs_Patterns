@@ -1,0 +1,45 @@
+.element {
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    margin: 10px;
+  }
+  
+  .element button {
+    margin-top: 15px;
+    background: transparent;
+    border: none;
+  }
+  
+  .react-icons {
+    vertical-align: middle;
+    color: rgb(34, 28, 39);
+    height: 2em;
+    width: 2em;
+  }
+  
+  .element:nth-child(1) {
+    background-color: rgb(221, 148, 148);
+  }
+  .element:nth-child(2) {
+    background-color: rgb(143, 4, 4);
+  }
+  .element:nth-child(3) {
+    background-color: rgb(47, 125, 145);
+  }
+  .element:nth-child(4) {
+    background-color: rgb(202, 66, 202);
+  }
+  .element:nth-child(5) {
+    background-color: rgb(48, 134, 116);
+  }
+  .element:nth-child(6) {
+    background-color: rgb(174, 185, 68);
+  }
+  .element:nth-child(7) {
+    background-color: rgb(84, 126, 18);
+  }
+  .element:nth-child(8) {
+    background-color: rgb(248, 68, 68);
+  }
+  
